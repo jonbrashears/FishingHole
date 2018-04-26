@@ -1,2 +1,2 @@
 # FishingHole
-Holds all documentation for Fishing Hole Android Application
+Complete documentation for Android application including requirements, use cases, data models, data flow diagrams, class diagrams, and test plan.
